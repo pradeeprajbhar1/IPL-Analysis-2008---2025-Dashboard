@@ -44,9 +44,9 @@ This project is an interactive Power BI dashboard that provides comprehensive in
 ---
 
 ## 📂 Project Files
-- IPL_Analysis.pbix
+- IPL Analysis (2008 - 2025) Final.pbix
 - Dataset (.xlsx/.csv)
-- Dashboard.png
+- IPL Analysis (2008 - 2025) Snapshot.jpg
 - README.md
 
 ---
@@ -56,6 +56,6 @@ This project is an interactive Power BI dashboard that provides comprehensive in
 
 📧 LinkedIn: *(www.linkedin.com/in/pradeep-rajbhar6393)*
 
-💻 GitHub: *(Add your GitHub Profile)*
+💻 GitHub: *(https://github.com/pradeeprajbhar1)*
 
 ⭐ If you found this project useful, please give it a Star.
