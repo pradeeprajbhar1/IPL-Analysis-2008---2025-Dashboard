@@ -39,7 +39,7 @@ This project is an interactive Power BI dashboard that provides comprehensive in
 
 ## 📷 Dashboard Preview
 
-![IPL Dashboard](Dashboard.png)
+![IPL Dashboard](IPL Analysis (2008 - 2025) Snapshot.jpg)
 
 ---
 
