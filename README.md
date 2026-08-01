@@ -54,7 +54,7 @@ This project is an interactive Power BI dashboard that provides comprehensive in
 ## 👨‍💻 Developed By
 **Pradeep Rajbhar**
 
-📧 LinkedIn: *(Add your LinkedIn Profile)*
+📧 LinkedIn: *(www.linkedin.com/in/pradeep-rajbhar6393)*
 
 💻 GitHub: *(Add your GitHub Profile)*
 
